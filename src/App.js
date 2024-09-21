@@ -2,8 +2,8 @@ import { useState, useEffect } from 'react';
 import Moviecard from './Moviecard';
 import SearchIcon from './search.svg';
 import './App.css';
-  
-const API_URL = `http://www.omdbapi.com/?apikey=${process.env.REACT_APP_API_KEY}`;
+
+const API_URL = `https://www.omdbapi.com/?apikey=${process.env.REACT_APP_API_KEY}`;
 
 
 
