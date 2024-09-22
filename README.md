@@ -5,7 +5,7 @@ The project serves as a learning exercise to expose myself to the React library 
 
 ## Live Demo
 
-Check out the live demo [here](https://movie-searcher-nkqyzyutx-noahkohs-projects.vercel.app/).
+Check out the live demo [here](https://movie-searcher-rose.vercel.app/).
 
 ## Project Overview
 
