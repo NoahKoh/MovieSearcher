@@ -38,3 +38,7 @@ This project was created to gain practical experience with the following React c
 
 - OMDB API for providing the movie data.
 - Vercel for hosting the application.
+
+## Image
+<img width="1470" alt="photo 2024-12-09 at 6 47 21 PM" src="https://github.com/user-attachments/assets/7e0f69f6-07d0-4786-ba7b-80184cf4293a"> <br>
+*Main Page*
